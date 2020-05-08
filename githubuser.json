@@ -1,0 +1,104 @@
+{
+   "users": [
+      {
+         "username": "zayvius",
+         "name": "Muhammad Zayvius Alsyazani",
+         "avatar": "https://raw.githubusercontent.com/kangzay/ads/master/avatar.png",
+         "company": "Zayvius, Inc.",
+         "location": "Indonesia, Cianjur",
+         "repository": 100,
+         "follower": 1000000,
+         "following": 10
+      },
+      {
+         "username": "asep",
+         "name": "Asep",
+         "avatar": "https://raw.githubusercontent.com/kangzay/ads/master/avatar.png",
+         "company": "Zayvius, Inc.",
+         "location": "Indonesia, Bogor",
+         "repository": 700,
+         "follower": 100000,
+         "following": 10
+      },
+      {
+         "username": "santi",
+         "name": "Santi",
+         "avatar": "https://raw.githubusercontent.com/kangzay/ads/master/avatar%20cewe.png",
+         "company": "Zayvius, Inc.",
+         "location": "Indonesia, Bandung",
+         "repository": 80,
+         "follower": 1000,
+         "following": 100
+      },
+      {
+         "username": "ahmad",
+         "name": "Ahmad",
+         "avatar": "https://raw.githubusercontent.com/kangzay/ads/master/avatar.png",
+         "company": "Zayvius, Inc.",
+         "location": "Indonesia, Sumedang",
+         "repository": 1000,
+         "follower": 500000,
+         "following": 10
+      },
+      {
+         "username": "siti",
+         "name": "Siti",
+         "avatar": "https://raw.githubusercontent.com/kangzay/ads/master/avatar%20cewe.png",
+         "company": "Zayvius, Inc.",
+         "location": "Indonesia, Garut",
+         "repository": 100,
+         "follower": 600000,
+         "following": 190
+      },
+      {
+         "username": "rian",
+         "name": "Rian",
+         "avatar": "https://raw.githubusercontent.com/kangzay/ads/master/avatar.png",
+         "company": "Zayvius, Inc.",
+         "location": "Indonesia, Bogor",
+         "repository": 600,
+         "follower": 800000,
+         "following": 10
+      },
+      {
+         "username": "fatimah",
+         "name": "Fatimah",
+         "avatar": "https://raw.githubusercontent.com/kangzay/ads/master/avatar%20cewe.png",
+         "company": "Zayvius, Inc.",
+         "location": "Indonesia, Bandung",
+         "repository": 1000,
+         "follower": 11000000,
+         "following": 10
+      },
+      {
+         "username": "iwan",
+         "name": "Iwan",
+         "avatar": "https://raw.githubusercontent.com/kangzay/ads/master/avatar.png",
+         "company": "Zayvius, Inc.",
+         "location": "Indonesia, Depok",
+         "repository": 10,
+         "follower": 10000,
+         "following": 10
+      },
+      {
+         "username": "jenab",
+         "name": "Jenab",
+         "avatar": "https://raw.githubusercontent.com/kangzay/ads/master/avatar%20cewe.png",
+         "company": "Zayvius, Inc.",
+         "location": "Indonesia, Cianjur",
+         "repository": 10,
+         "follower": 1000,
+         "following": 10
+      },
+      {
+         "username": "anisa",
+         "name": "Anisa",
+         "avatar": "https://raw.githubusercontent.com/kangzay/ads/master/avatar%20cewe.png",
+         "company": "Ke Dua, inc",
+         "location": "Indonesia, Cianjur",
+         "repository": 90,
+         "follower": 100000,
+         "following": 10
+      }
+   ]
+}
